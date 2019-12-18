@@ -1,0 +1,2 @@
+https://github.com/amansrivastava17/lstm-siamese-text-similarity
+https://github.com/dhwajraj/deep-siamese-text-similarity
